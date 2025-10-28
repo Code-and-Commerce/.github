@@ -1,6 +1,7 @@
 <img width="1024" height="302" alt="Code   Commerce" src="https://github.com/user-attachments/assets/49723803-f5e7-4948-8632-282b254ebfbe" />
 
 **Code & Commerce** is a freelance team specializing in building modern, fast, and conversion-focused landing pages. We combine clean code with smart business strategy to turn visitors into customers.
+📞 +91 88072 24054 | +91 70107 22265  
 
 ## About Us
 
@@ -15,7 +16,8 @@ We are a creative freelance team dedicated to helping startups and businesses de
 - Easy integration with domains, analytics, forms, and marketing tools  
 - Client-focused solutions ensuring usability, accessibility, and design consistency  
 
-## 📞 Contact Us
+## Contact Us
 
 - 📱 **Phone:** +91 88072 24054 | +91 70107 22265  
 - 📧 **Email:** [sudharsansaravanan2623@gmail.com](mailto:sudharsansaravanan2623@gmail.com)
+
