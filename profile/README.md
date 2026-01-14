@@ -1,9 +1,9 @@
 <img width="1024" height="302" alt="Code   Commerce" src="https://github.com/user-attachments/assets/49723803-f5e7-4948-8632-282b254ebfbe" />
 
-**Code & Commerce** is a freelance team specializing in building modern, fast, and conversion-focused landing pages. We combine clean code with smart business strategy to turn visitors into customers.
+**Code & Commerce** is a freelance team specializing in building modern, fast, and conversion-focused Web pages. We combine clean code with smart business strategy to turn visitors into customers.
 📞 +91 88072 24054 | +91 70107 22265  
 
-🔗 **Visit Our Website:**  [codeandcommerce.web.app](https://codeandcommerce.web.app)
+🔗 **Visit Our Website:**  [www.codencommerce.tech](https://www.codencommerce.tech/)
 
 ## About Us
 
@@ -22,12 +22,13 @@ We are a creative freelance team dedicated to helping startups and businesses de
 
 - 📱 **Phone:** +91 88072 24054 | +91 70107 22265  
 - 📧 **Email:** [Affiliateambch@gmail.com](mailto:Affiliateambch@gmail.com)
-- 🌐 **Website:** [codeandcommerce.web.app](https://codeandcommerce.web.app)
+- 🌐 **Website:** [www.codencommerce.tech](https://www.codencommerce.tech/)
 
 ---
 
 > 💬 “We don’t just build websites — we craft digital experiences that convert.”
 
 ---
+
 
 
